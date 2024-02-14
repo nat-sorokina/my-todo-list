@@ -1,4 +1,4 @@
-# My To-Do List App
+# My To-Do List React App
 
 ## Description
 I built this project to practise React JS and review essential concepts, such as state and passing props. Inadvertently, I also brushed up on my CSS flexbox knowledge.
